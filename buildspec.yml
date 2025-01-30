@@ -23,3 +23,4 @@ phases:
 artifacts:
   files:
     - '**/*'
+  base-directory: ./TestAPI/bin/Release/net8.0/publish  
